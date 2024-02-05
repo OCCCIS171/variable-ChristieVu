@@ -1,8 +1,8 @@
 // TODO: Create a variable named `firstName` and assign your first name to it in the line below.
-let firstName = Christie;
+let firstName = "Christie";
 
 // TODO: Create a variable named `lastName` and assign your last name to it in the line below.
-let lastName = Vu;
+let lastName = "Vu";
 
 // TODO: Create a variable named `sayHello` and build the following string based on the variables
 // above: "Hello world! My name is <firstName> <lastName>. Nice to meet you!". 
